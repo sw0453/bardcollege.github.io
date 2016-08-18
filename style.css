@@ -1,6 +1,6 @@
 body {
     background-color: rgb(243, 255, 255);
-    color: linen;
+    color: black;
     font-size: 150%;
     line-height: 1.4;
 }
@@ -63,7 +63,7 @@ img{
 
 .redacted{
     background-color: rgb(215, 206, 199);
-    color:  rgb(215, 206, 199);
+    color:  rgb(black);
 }
 
 .half{
